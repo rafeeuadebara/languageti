@@ -1,0 +1,34 @@
+.field {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.item {
+  margin-left: 70px;
+  margin-right: 70px;
+}
+
+.label {
+  color: #fff;
+}
+
+.mainsearch {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 50px;
+}
+
+.big {
+  color: #2185d0;
+  font-size: 15px;
+  margin-bottom: 15px;
+}
+
+.small {
+  color: #fff;
+}
+
+body {
+  background: #1c1c1c;
+}
